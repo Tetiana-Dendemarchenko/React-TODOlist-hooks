@@ -1,0 +1,21 @@
+.list {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.listItem {
+    width: 660px;
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: #b6977f;
+    border: 1px solid white;
+    border-radius: 2px;
+    display: flex;
+}
+
+.faicons {
+    font-size: 24px;
+    margin: 10px 20px;
+    color: white;
+}

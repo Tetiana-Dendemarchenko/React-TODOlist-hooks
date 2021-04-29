@@ -1,0 +1,18 @@
+body {
+    font-size: 26px;
+    font-weight: bold;
+    color: #2a3b4f;
+    background-color: #e7b494;
+    text-align: center;
+}
+
+.App {
+    background-color: #435d7d;
+    opacity: 0.8;
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+    box-shadow: 15px 12px 5px #2a3b4f;
+    border-radius: 3px;
+}
+

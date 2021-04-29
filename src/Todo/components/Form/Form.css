@@ -1,0 +1,25 @@
+#todo-form {
+    width: 700px;
+    margin: 40px auto;
+    padding: 10px;
+    color: white;
+    background-color: #686e7f;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+input {
+    width: 600px;
+    height: 30px;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(104, 110, 127, .2) ;
+}
+
+button {
+    height: 40px;
+    margin-left: 10px;
+    color: white;
+    background-color: #2a3b4f;
+    padding: 10px;
+}
